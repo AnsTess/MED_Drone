@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AM_DroneHatch
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: DroneRig
+    m_Weight: 0
+  - m_Path: DroneRig/Base
+    m_Weight: 0
+  - m_Path: DroneRig/Base/Antenna_LB
+    m_Weight: 0
+  - m_Path: DroneRig/Base/Antenna_LB/Antenna_LB_end
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Antenna_LU
+    m_Weight: 0
+  - m_Path: DroneRig/Base/Antenna_LU/Antenna_LU_end
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Antenna_RB
+    m_Weight: 0
+  - m_Path: DroneRig/Base/Antenna_RB/Antenna_RB_end
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Antenna_RU
+    m_Weight: 0
+  - m_Path: DroneRig/Base/Antenna_RU/Antenna_RU_end
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011/Bone_HealTube.012
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011/Bone_HealTube.012/Bone_HealTube.013
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011/Bone_HealTube.012/Bone_HealTube.013/Bone_HealTube.014
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011/Bone_HealTube.012/Bone_HealTube.013/Bone_HealTube.014/Bone_HealTube.015
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011/Bone_HealTube.012/Bone_HealTube.013/Bone_HealTube.014/Bone_HealTube.015/Bone_HealTube.016
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011/Bone_HealTube.012/Bone_HealTube.013/Bone_HealTube.014/Bone_HealTube.015/Bone_HealTube.016/Bone_HealTube.017
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Bone_HealTube.000/Bone_HealTube.001/Bone_HealTube.002/Bone_HealTube.003/Bone_HealTube.004/Bone_HealTube.005/Bone_HealTube.006/Bone_HealTube.007/Bone_HealTube.008/Bone_HealTube.009/Bone_HealTube.010/Bone_HealTube.011/Bone_HealTube.012/Bone_HealTube.013/Bone_HealTube.014/Bone_HealTube.015/Bone_HealTube.016/Bone_HealTube.017/Bone_HealTube.017_end
+    m_Weight: 1
+  - m_Path: DroneRig/Base/EyeLid_B
+    m_Weight: 0
+  - m_Path: DroneRig/Base/EyeLid_B/EyeLid_B_end
+    m_Weight: 1
+  - m_Path: DroneRig/Base/EyeLid_U
+    m_Weight: 0
+  - m_Path: DroneRig/Base/EyeLid_U/EyeLid_U_end
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Hatch_01
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Hatch_01/Hatch_02
+    m_Weight: 1
+  - m_Path: DroneRig/Base/Hatch_01/Hatch_02/Hatch_02_end
+    m_Weight: 1
+  - m_Path: DroneRig/Bone
+    m_Weight: 0
+  - m_Path: DroneRig/Bone/Bone_end
+    m_Weight: 1
